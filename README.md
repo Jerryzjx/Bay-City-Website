@@ -6,7 +6,7 @@
 
 The website is currently unfinished:
 
-- [ ] Main page
+- [X] Main page
 - [ ] History page
 - [ ] Archeticture page
 - [ ] Author page
