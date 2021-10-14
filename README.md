@@ -19,4 +19,3 @@ Image Of Bay City Downtown and Midtown (Dec. 2020)
 
 Bay City (2018 - 2021) 3 Years Celebration!
 
-Coming Soon in 2022: Bay City Open Source Release Version Beta 1.0!
