@@ -1,6 +1,6 @@
 # Bay City Website
 
-:city_sunset: Bay City is a metropolis I built in Minecraft since 2018.
+### :city_sunset: Bay City is a green city I built in Minecraft since 2018.
 
 [Visit Bay City Website](https://bay-city.vercel.app/index.html)
 
@@ -8,14 +8,11 @@ The website is currently unfinished:
 
 - [X] Main page
 - [ ] History page
-- [ ] Archeticture page
-- [ ] Author page
-- [ ] Download / Subscribe page
+- [X] Archeticture page
+
+![Image Of Bay City](https://github.com/JerryZhang0920/Bay-City-Website/blob/main/images/Bay%20City%202021.png?raw=true)
+
+Image Of Bay City Downtown and Midtown (Oct. 2021)
 
 
-![Image Of Bay City](https://github.com/JerryZhang0920/Bay-City-Website/blob/main/images/IMG_2939.PNG)
-
-Image Of Bay City Downtown and Midtown (Dec. 2020)
-
-Bay City (2018 - 2021) 3 Years Celebration!
 
