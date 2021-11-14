@@ -8,7 +8,7 @@
 
 ### Image Of Bay City Downtown and Midtown (Oct. 2021)
 
-#### License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+#### License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Image: Bay City 2021
 
 #### ![Visitor Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=JerryZhang0920/Bay-City-Website&style=for-the-badge&logo=github&logoColor=white&color=BCECE0&labelColor=white)
 
